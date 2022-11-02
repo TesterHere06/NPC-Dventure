@@ -1,6 +1,6 @@
 /// @desc Creating variables
 
-image_speed = 0;
+image_speed = 2;
 hSpeed = 0;
 vSpeed = 0;
 speedWalk = 2.0;
