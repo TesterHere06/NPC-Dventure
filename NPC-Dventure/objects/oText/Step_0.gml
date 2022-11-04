@@ -20,6 +20,11 @@ if (oPlayer.keyActivate)
 {
 	var _messageLength = string_length(textMessage);
 	if (textProgress >= _messageLength){
+		
+		if (responses[0] != -1){
+			with (originInstance) DialogueResponses(other.responseScripts[other.responseSelected]);
+		}
+		
 		instance_destroy();	
 		if (instance_exists(oTextQueued)){
 			with (oTextQueued) ticket--;	
