@@ -13,4 +13,4 @@ inputDirection = point_direction(0,0, keyRight-keyLeft, keyDown-keyUp);
 //Canceling movement
 inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0); 
 
-script_execute(state)
+if (global.gamePaused) script_execute(state);
