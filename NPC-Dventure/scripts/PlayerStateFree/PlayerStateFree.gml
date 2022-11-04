@@ -25,7 +25,7 @@ function PlayerStateFree(){
 		var _activateY = lengthdir_y(10, direction);
 		activate = instance_position(x+_activateX, y+_activateY, pEntity);
 		
-		if(activate == noone || activate.entityActivateScript == -1)
+		if(activate == noone || (y-1<activate.y && CARDINAL_DIR == 1) || activate.entityActivateScript == -1)
 		{
 			state = PlayerStateRoll;
 			moveDistanceRemaining = distanceRoll
@@ -38,7 +38,7 @@ function PlayerStateFree(){
 			{
 				with (activate)
 				{
-					direction = point_direction(x,y,other.x,other.y)
+					direction = 360-other.direction
 					image_index = CARDINAL_DIR
 				}
 			}
