@@ -16,11 +16,21 @@ function PlayerStateFree(){
 	else sprite_index = spriteIdle;
 	if (_oldSprite != sprite_index) localFrame = 0;
 
+	
+if (keyAttack){
+	state = PlayerStateAttack;
+	stateAttack = AttackSlash;
+}
 	//Update Image Index
 	PlayerAnimateSprite();
 	//Change State
 	if (keyActivate)
 	{
+		//1. CHEck for an entity to activate
+		//2. If there is nothing, or there is something, but it has no script - Roll!
+		//3. Otherwise, there is something and it has a script! Activate!
+		//4. If the thing we activate is an NPC, make it face towards us
+		
 		var _activateX = lengthdir_x(10, direction);
 		var _activateY = lengthdir_y(10, direction);
 		activate = instance_position(x+_activateX, y+_activateY, pEntity);
