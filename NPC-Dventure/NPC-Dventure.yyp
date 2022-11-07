@@ -19,6 +19,7 @@
     {"id":{"name":"oPlant","path":"objects/oPlant/oPlant.yy",},"order":6,},
     {"id":{"name":"AttackSlash","path":"scripts/AttackSlash/AttackSlash.yy",},"order":0,},
     {"id":{"name":"AttackSpin","path":"scripts/AttackSpin/AttackSpin.yy",},"order":1,},
+    {"id":{"name":"Script18","path":"scripts/Script18/Script18.yy",},"order":19,},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":1,},
     {"id":{"name":"sQuestie","path":"sprites/sQuestie/sQuestie.yy",},"order":0,},
     {"id":{"name":"TileSet","path":"tilesets/TileSet/TileSet.yy",},"order":0,},
