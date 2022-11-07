@@ -14,7 +14,7 @@ if (hits > 0)
 			ds_list_add(hitByAttack, hitID);
 			with (hitID){
 				
-				image_blend = c_red
+				if (entityHitScript != 1) script_execute(entityHitScript);
 				
 			}
 		}
