@@ -24,6 +24,7 @@
     {"id":{"name":"sQuestie","path":"sprites/sQuestie/sQuestie.yy",},"order":0,},
     {"id":{"name":"TileSet","path":"tilesets/TileSet/TileSet.yy",},"order":0,},
     {"id":{"name":"entityHitDestroy","path":"scripts/entityHitDestroy/entityHitDestroy.yy",},"order":17,},
+    {"id":{"name":"oCompass","path":"objects/oCompass/oCompass.yy",},"order":10,},
     {"id":{"name":"PlayerStateRoll","path":"scripts/PlayerStateRoll/PlayerStateRoll.yy",},"order":2,},
     {"id":{"name":"oSignpost","path":"objects/oSignpost/oSignpost.yy",},"order":4,},
     {"id":{"name":"oText","path":"objects/oText/oText.yy",},"order":3,},
