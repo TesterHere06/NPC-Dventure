@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet2",
+  "name": "TileSetVillage",
   "spriteId": {
     "name": "sVillageTileSet",
     "path": "sprites/sVillageTileSet/sVillageTileSet.yy",
