@@ -72,8 +72,8 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rInit","path":"rooms/rInit/rInit.yy",},},
-    {"roomId":{"name":"rVillage","path":"rooms/rVillage/rVillage.yy",},},
     {"roomId":{"name":"rParent","path":"rooms/rParent/rParent.yy",},},
+    {"roomId":{"name":"rVillage","path":"rooms/rVillage/rVillage.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
