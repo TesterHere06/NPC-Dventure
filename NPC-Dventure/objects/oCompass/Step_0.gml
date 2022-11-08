@@ -1,1 +1,0 @@
-direction = point_direction(x,y,oPlayer.y,oPlayer.y)
