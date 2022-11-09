@@ -16,6 +16,8 @@ distanceBonkHeight = 12;
 speedBonk = 1.5;
 z=0;
 
+animationEndScript = -1;
+
 spriteRoll = sPlayerRoll;
 spriteRun = sPlayerRun;
 spriteIdle = sPlayer;
