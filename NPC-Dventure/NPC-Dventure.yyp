@@ -15,7 +15,6 @@
     {"id":{"name":"sVillageTileSet","path":"sprites/sVillageTileSet/sVillageTileSet.yy",},"order":0,},
     {"id":{"name":"shWhiteFlash","path":"shaders/shWhiteFlash/shWhiteFlash.yy",},"order":0,},
     {"id":{"name":"PlayerCollision","path":"scripts/PlayerCollision/PlayerCollision.yy",},"order":1,},
-    {"id":{"name":"oRoomExit","path":"objects/oRoomExit/oRoomExit.yy",},"order":5,},
     {"id":{"name":"sPlayerHurt","path":"sprites/sPlayerHurt/sPlayerHurt.yy",},"order":3,},
     {"id":{"name":"pEntity","path":"objects/pEntity/pEntity.yy",},"order":4,},
     {"id":{"name":"oPlant","path":"objects/oPlant/oPlant.yy",},"order":6,},
@@ -118,6 +117,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.0.49",
+    "IDEVersion": "2022.9.1.51",
   },
 }
