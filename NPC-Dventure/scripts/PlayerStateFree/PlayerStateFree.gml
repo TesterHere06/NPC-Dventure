@@ -18,8 +18,14 @@ function PlayerStateFree(){
 
 	
 if (keyAttack){
+	if (sprite_index == spriteRun) {
 	state = PlayerStateAttack;
 	stateAttack = AttackSlash;
+	} else {
+	ScreenShake(5,5)
+	state = PlayerStateAttack;
+	stateAttack = AttackBlock;
+	}
 }
 	//Update Image Index
 	PlayerAnimateSprite();

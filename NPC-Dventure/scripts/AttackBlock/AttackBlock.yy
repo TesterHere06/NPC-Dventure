@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "AttackSpin",
+  "name": "AttackBlock",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
