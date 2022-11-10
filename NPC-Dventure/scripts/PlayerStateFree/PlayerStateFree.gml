@@ -22,9 +22,9 @@ if (keyAttack){
 	state = PlayerStateAttack;
 	stateAttack = AttackSlash;
 	} else {
-	ScreenShake(5,5)
+	for (var i=0; i<10; i++) DropItems(x,y,3,oFragPlayer);
 	state = PlayerStateAttack;
-	stateAttack = AttackBlock;
+	stateAttack = AttackSpin;
 	}
 }
 	//Update Image Index
