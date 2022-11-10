@@ -5,6 +5,9 @@ function AttackSpin(){
 //Clear hit list
 if (!ds_exists(hitByAttack, ds_type_list)) hitByAttack = ds_list_create();
 ds_list_clear(hitByAttack);
+
+CalcAttack(sTriger);
+
 //Update Sprite
 	if (CARDINAL_DIR > 1) {
 	image_index -= sprite_get_speed(sprite_index) / FRAME_RATE;
