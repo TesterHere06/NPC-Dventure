@@ -22,7 +22,7 @@ if (keyAttack){
 	state = PlayerStateAttack;
 	stateAttack = AttackSlash;
 	} else {
-	for (var i=0; i<10; i++) DropItems(x,y,3,oFragPlayer);
+	for (var i=0; i<7; i++) DropItems(x,y,2,oFragPlayer);
 	state = PlayerStateAttack;
 	stateAttack = AttackSpin;
 	}

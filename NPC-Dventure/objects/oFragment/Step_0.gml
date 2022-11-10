@@ -27,4 +27,5 @@ if (!global.gamePaused)
 	y += lengthdir_y(spd,direction);
 	if (tilemap_get_at_pixel(collisionMap, x, y) > 0) spd = 0;
 	spd = max(spd-fric,0)
+	depth = -bbox_bottom
 }
