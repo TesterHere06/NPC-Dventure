@@ -43,8 +43,12 @@ if (keyAttack){
 		
 		if(activate == noone || (y-1<activate.y && CARDINAL_DIR == 1) || activate.entityActivateScript == -1)
 		{
+			if (global.iLifted != noone) {
+				PlayerThrow();
+			} else {
 			state = PlayerStateRoll;
 			moveDistanceRemaining = distanceRoll
+			}
 		}
 		else
 		{

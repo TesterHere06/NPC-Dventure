@@ -6,6 +6,7 @@
     {"id":{"name":"sPlayerRoll","path":"sprites/sPlayerRoll/sPlayerRoll.yy",},"order":2,},
     {"id":{"name":"sTriger","path":"sprites/sTriger/sTriger.yy",},"order":4,},
     {"id":{"name":"ScreenShake","path":"scripts/ScreenShake/ScreenShake.yy",},"order":0,},
+    {"id":{"name":"PlayerThrow","path":"scripts/PlayerThrow/PlayerThrow.yy",},"order":2,},
     {"id":{"name":"PlayerAnimateSprite","path":"scripts/PlayerAnimateSprite/PlayerAnimateSprite.yy",},"order":0,},
     {"id":{"name":"Tile","path":"sprites/Tile/Tile.yy",},"order":1,},
     {"id":{"name":"PlayerStateBonk","path":"scripts/PlayerStateBonk/PlayerStateBonk.yy",},"order":3,},
