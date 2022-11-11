@@ -12,7 +12,7 @@
     {"id":{"name":"PlayerStateBonk","path":"scripts/PlayerStateBonk/PlayerStateBonk.yy",},"order":3,},
     {"id":{"name":"PlayerStateAttack","path":"scripts/PlayerStateAttack/PlayerStateAttack.yy",},"order":4,},
     {"id":{"name":"PlayerStateAct","path":"scripts/PlayerStateAct/PlayerStateAct.yy",},"order":5,},
-    {"id":{"name":"oFragment","path":"objects/oFragment/oFragment.yy",},"order":8,},
+    {"id":{"name":"oFragment","path":"objects/oFragment/oFragment.yy",},"order":6,},
     {"id":{"name":"DialogueResponses","path":"scripts/DialogueResponses/DialogueResponses.yy",},"order":1,},
     {"id":{"name":"ActivateLiftable","path":"scripts/ActivateLiftable/ActivateLiftable.yy",},"order":20,},
     {"id":{"name":"sVillageTileSet","path":"sprites/sVillageTileSet/sVillageTileSet.yy",},"order":0,},
@@ -52,6 +52,7 @@
     {"id":{"name":"sHealth","path":"sprites/sHealth/sHealth.yy",},"order":5,},
     {"id":{"name":"sPlayerRun","path":"sprites/sPlayerRun/sPlayerRun.yy",},"order":1,},
     {"id":{"name":"oQuestNPC","path":"objects/oQuestNPC/oQuestNPC.yy",},"order":5,},
+    {"id":{"name":"DoNothing","path":"scripts/DoNothing/DoNothing.yy",},"order":21,},
     {"id":{"name":"rVillage","path":"rooms/rVillage/rVillage.yy",},"order":1,},
     {"id":{"name":"ScriptExecuteArray","path":"scripts/ScriptExecuteArray/ScriptExecuteArray.yy",},"order":8,},
     {"id":{"name":"NewTextBox","path":"scripts/NewTextBox/NewTextBox.yy",},"order":0,},
@@ -128,6 +129,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.1.51",
+    "IDEVersion": "2022.9.0.49",
   },
 }
