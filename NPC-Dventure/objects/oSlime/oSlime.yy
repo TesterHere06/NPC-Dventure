@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oFragPlant",
+  "name": "oSlime",
   "spriteId": {
-    "name": "sFrag_plant",
-    "path": "sprites/sFrag_plant/sFrag_plant.yy",
+    "name": "sSlime",
+    "path": "sprites/sSlime/sSlime.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "oFragment",
-    "path": "objects/oFragment/oFragment.yy",
+    "name": "pEnemy",
+    "path": "objects/pEnemy/pEnemy.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,13 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Fragments",
-    "path": "folders/Objects/Fragments.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Entites/Enemies.yy",
   },
 }
