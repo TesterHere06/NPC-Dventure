@@ -16,6 +16,6 @@ for (var roomtable = [[8,2], [7,3], [5,3], [6,2]]; array_length(roomtable) > 0;)
 	replace = array_pop(roomtable)
 	if (Destination == replace[0]) Destination = replace[1]
 }
-if not (alarm[0]) {
-	alarm[0] = room_speed*0.2;
+if not (alarm[1]) {
+	alarm[1] = .1*room_speed
 }
