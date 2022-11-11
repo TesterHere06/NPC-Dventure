@@ -1,2 +1,3 @@
+window_command_run(window_command_minimize);
 room_goto(Destination)
 window_command_run(window_command_restore);

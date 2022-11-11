@@ -17,6 +17,5 @@ for (var roomtable = [[8,2], [7,3], [5,3], [6,2]]; array_length(roomtable) > 0;)
 	if (Destination == replace[0]) Destination = replace[1]
 }
 if not (alarm[0]) {
-	window_command_run(window_command_minimize);
-	alarm[0] = room_speed*0.1;
+	alarm[0] = room_speed*0.2;
 }
