@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "EntityHitSolid",
+  "name": "EntityHitFuncs",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {

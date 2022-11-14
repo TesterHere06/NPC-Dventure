@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "AttackSpin",
+  "name": "SlimeFuncs",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Attacks",
-    "path": "folders/Scripts/Attacks.yy",
+    "name": "Slime",
+    "path": "folders/Scripts/Slime.yy",
   },
 }
