@@ -13,6 +13,7 @@
     {"id":{"name":"PlayerStateAttack","path":"scripts/PlayerStateAttack/PlayerStateAttack.yy",},"order":4,},
     {"id":{"name":"PlayerStateAct","path":"scripts/PlayerStateAct/PlayerStateAct.yy",},"order":5,},
     {"id":{"name":"sSlime","path":"sprites/sSlime/sSlime.yy",},"order":1,},
+    {"id":{"name":"shRedFlash","path":"shaders/shRedFlash/shRedFlash.yy",},"order":1,},
     {"id":{"name":"oFragment","path":"objects/oFragment/oFragment.yy",},"order":6,},
     {"id":{"name":"DialogueResponses","path":"scripts/DialogueResponses/DialogueResponses.yy",},"order":1,},
     {"id":{"name":"ActivateLiftable","path":"scripts/ActivateLiftable/ActivateLiftable.yy",},"order":10,},
