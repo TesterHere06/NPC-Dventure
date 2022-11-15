@@ -20,6 +20,7 @@ function HurtPlayer(_direction, _force, _damage)
 			else
 			{
 				// Kill the player	
+				with(oPlayer) state = PlayerStateDead;
 			}
 		}
 }
