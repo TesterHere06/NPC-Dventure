@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "ActivateLiftable",
+  "name": "Activation",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {

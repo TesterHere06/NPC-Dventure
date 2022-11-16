@@ -8,6 +8,13 @@ switch(argument0){
 		NewTextBox("Mean...")
 		game_end();
 	}
+	case 4:
+	{
+		NewTextBox("Thanks!", 2);
+		NewTextBox("I think it should be somewhere around here?", 2);
+		global.questStatus[? "TheHatQuest"] = 1;
+	} break;
+	case 5: NewTextBox(":(", 2); break;
 	default: break;
 }
 
