@@ -10,6 +10,7 @@ global.targetDirection = 0;
 
 global.playerHealthMax = 3;
 global.playerHealth = 3;
+global.playerMoney = 0;
 global.questStatus = ds_map_create();
 global.questStatus[? "TheHatQuest"] = 0;
 

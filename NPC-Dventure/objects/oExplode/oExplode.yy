@@ -32,7 +32,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Managers",
-    "path": "folders/Objects/Managers.yy",
+    "name": "Fragments & Collectibles",
+    "path": "folders/Objects/Fragments & Collectibles.yy",
   },
 }
