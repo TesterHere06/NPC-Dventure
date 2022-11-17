@@ -11,6 +11,19 @@ global.targetDirection = 0;
 global.playerHealthMax = 3;
 global.playerHealth = 3;
 global.playerMoney = 0;
+
+//Items
+global.playerHasAnyItems = false;
+global.playerEquipped = ITEM.BOW;
+global.playerAmmo = array_create(ITEM.TYPE_COUNT, -1);
+global.playerItemUnlocked = array_create(ITEM.TYPE_COUNT, false);
+global.playerAmmo[ITEM.BOMB] = 0;
+global.playerAmmo[ITEM.BOW] = 0;
+
+global.playerItemUnlocked[ITEM.BOMB] = true;
+global.playerHasAnyItems = true;
+global.playerAmmo[ITEM.BOW] = 5;
+
 global.questStatus = ds_map_create();
 global.questStatus[? "TheHatQuest"] = 0;
 
