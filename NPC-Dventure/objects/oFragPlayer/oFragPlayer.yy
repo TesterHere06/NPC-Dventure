@@ -36,7 +36,7 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"bounceSpeed","path":"objects/oFragment/oFragment.yy",},"objectId":{"name":"oFragment","path":"objects/oFragment/oFragment.yy",},"value":"0.04",},
   ],
   "parent": {
-    "name": "Fragments",
-    "path": "folders/Objects/Fragments.yy",
+    "name": "Fragments & Collectibles",
+    "path": "folders/Objects/Fragments & Collectibles.yy",
   },
 }

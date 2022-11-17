@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Decors or Interactables",
-    "path": "folders/Sprites/Decors or Interactables.yy",
+    "name": "Collectibles or Interactables",
+    "path": "folders/Sprites/Collectibles or Interactables.yy",
   },
 }

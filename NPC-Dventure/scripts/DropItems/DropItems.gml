@@ -1,7 +1,5 @@
 function DropItems(item_x,item_y,item,obj){
 
-	if(item > 1)
-	{
 		var _anglePerItem = 360/obj;
 		var _angle = random(360);
 		for (var i = 0; i < item; i++)
@@ -12,6 +10,5 @@ function DropItems(item_x,item_y,item,obj){
 				spd = 0.75 + (item * 0.1) + random(0.1);
 			}
 			_angle += _anglePerItem;
-		}	
-	} else instance_create_layer(item_x, item_y, "Instances",obj);
+		}
 }

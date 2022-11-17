@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oFragPlant",
+  "name": "oCoin",
   "spriteId": {
-    "name": "sFrag_plant",
-    "path": "sprites/sFrag_plant/sFrag_plant.yy",
+    "name": "sCoin",
+    "path": "sprites/sCoin/sCoin.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "oFragment",
-    "path": "objects/oFragment/oFragment.yy",
+    "name": "pCollectible",
+    "path": "objects/pCollectible/pCollectible.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -29,7 +29,9 @@
   "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"entityShadow","path":"objects/pEntity/pEntity.yy",},"objectId":{"name":"pEntity","path":"objects/pEntity/pEntity.yy",},"value":"False",},
+  ],
   "parent": {
     "name": "Fragments & Collectibles",
     "path": "folders/Objects/Fragments & Collectibles.yy",
