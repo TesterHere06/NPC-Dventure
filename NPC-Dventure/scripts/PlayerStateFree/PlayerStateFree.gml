@@ -90,4 +90,15 @@ if (keyAttack){
 		}
 		
 	}
+	
+	if (keyItem) && (!keyActivate) && (global.playerHasAnyItems) && (global.playerEquipped != ITEM.NONE)
+	{
+		switch (global.playerEquipped)
+		{
+			case ITEM.BOMB: UseItemBomb(); break;
+			case ITEM.BOW: UseItemBow(); break;
+			case ITEM.HOOK: UseItemHook(); break;
+			default: break;
+		}
+	}
 }

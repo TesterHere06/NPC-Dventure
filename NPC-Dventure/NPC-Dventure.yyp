@@ -97,6 +97,7 @@
     {"id":{"name":"sTextBoxBg","path":"sprites/sTextBoxBg/sTextBoxBg.yy",},"order":2,},
     {"id":{"name":"PlayerStateDead","path":"scripts/PlayerStateDead/PlayerStateDead.yy",},"order":7,},
     {"id":{"name":"SlimeFuncs","path":"scripts/SlimeFuncs/SlimeFuncs.yy",},"order":3,},
+    {"id":{"name":"UseItemFuncs","path":"scripts/UseItemFuncs/UseItemFuncs.yy",},"order":5,},
     {"id":{"name":"rForest","path":"rooms/rForest/rForest.yy",},"order":3,},
     {"id":{"name":"sSlimeDie","path":"sprites/sSlimeDie/sSlimeDie.yy",},"order":3,},
     {"id":{"name":"rInit","path":"rooms/rInit/rInit.yy",},"order":2,},
