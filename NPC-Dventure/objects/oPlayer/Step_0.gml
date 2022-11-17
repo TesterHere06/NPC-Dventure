@@ -6,6 +6,9 @@ keyDown = keyboard_check(vk_down) || keyboard_check(ord("S"));
 keyActivate = keyboard_check_pressed(vk_space);
 keyAttack = keyboard_check_pressed(vk_shift);
 keyItem = keyboard_check_pressed(vk_control);
+keyItemSelectUp = keyboard_check_pressed(ord("E"));
+keyItemSelectDown = keyboard_check_pressed(ord("Q"));
+
 
 //Calculating walk direction
 inputDirection = point_direction(0,0, keyRight-keyLeft, keyDown-keyUp);
