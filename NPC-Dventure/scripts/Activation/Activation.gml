@@ -28,7 +28,7 @@ function ActivateHatCat()
 			if (_hasHat)
 			{
 				//complete quest
-				NewTextBox("Wow didn't even talk to me !\nAnd picked up some random hat on the ground", 2);
+				NewTextBox("Wow didn't even talk to me !\nAnd picked up some random hat on the ground", 2)
 				global.questStatus[? "TheHatQuest"] = 2;
 				with (oQuestNPC) sprite_index = sQuestieHat;
 				with (oHat) instance_destroy();
