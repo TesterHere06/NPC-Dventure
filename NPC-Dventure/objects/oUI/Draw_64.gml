@@ -13,7 +13,7 @@ for (var i = 1; i <= _playerHealthMax; i++) {
 var _xx,_yy;
 
 _xx = 28;
-_yy = 31;
+_yy = 34.5;
 draw_sprite(sCoin,0,_xx,_yy)
 
 draw_set_color(c_black);
