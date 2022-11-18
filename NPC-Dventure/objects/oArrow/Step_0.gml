@@ -7,7 +7,7 @@ if (_entity != noone)
 	{
 		if (object_is_ancestor(object_index, pEnemy))
 		{
-			HurtEnemy(id, 25,other.id,,20);
+			HurtEnemy(id, 25,other.id,20);
 			_break = true;
 		}
 		else
