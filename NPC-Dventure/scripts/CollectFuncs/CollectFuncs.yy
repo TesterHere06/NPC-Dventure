@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "CollectCoins",
+  "name": "CollectFuncs",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
