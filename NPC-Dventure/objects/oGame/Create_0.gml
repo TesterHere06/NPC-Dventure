@@ -24,6 +24,7 @@ global.playerItemUnlocked[ITEM.BOMB] = true;
 global.playerHasAnyItems = true;
 global.playerAmmo[ITEM.BOMB] = 5;
 global.playerItemUnlocked[ITEM.BOW] = true;
+global.playerItemUnlocked[ITEM.HOOK] = true;
 global.playerAmmo[ITEM.BOW] = 15;
 
 global.questStatus = ds_map_create();

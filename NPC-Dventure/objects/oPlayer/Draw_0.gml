@@ -23,3 +23,28 @@ else
 
 if (shader_current() != -1) shader_reset();
 }
+
+//Hookshot (after player)
+if (state == PlayerStateHook) && (image_index == 3) DrawHookChain();
+
+function DrawHookChain()
+{
+	var _originX = floor(x);
+	var _originY = floor(y)-7;
+	
+	var _chains = hook div hookSize;
+	var _hookDirX = sign(hookX);
+	var _hookDirY = sign(hookY);
+	for (var i = 0; i < _chains; i++)
+	{
+		draw_sprite
+		(
+			sHookChain,
+			0,
+			_originX+hookX-(i*hookSize*_hookDirX),
+			_originY+hookY-(i*hookSize*_hookDirY)
+		);
+	}
+	
+	draw_sprite(sHookBlade,image_index,_originX+hookX,_originY+hookY);
+}
