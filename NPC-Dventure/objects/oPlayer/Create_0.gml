@@ -4,7 +4,12 @@ stateAttack = AttackSlash;
 hitByAttack = -1;
 lastState = state;
 
-collisionMap = layer_tilemap_get_id(layer_get_id("Col"))
+if layer_tilemap_exists(layer_get_id("Cave"), layer_tilemap_get_id(layer_get_id("Cave")))
+{
+	collisionMap = layer_tilemap_get_id(layer_get_id("Cave"));
+} else {
+	collisionMap = layer_tilemap_get_id(layer_get_id("Col"));
+}
 
 image_speed = 0;
 hSpeed = 0;
