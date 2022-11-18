@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "SlimeFuncs",
+  "name": "Slime",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Slime",
-    "path": "folders/Scripts/Slime.yy",
+    "name": "Enemies",
+    "path": "folders/Scripts/Enemies.yy",
   },
 }

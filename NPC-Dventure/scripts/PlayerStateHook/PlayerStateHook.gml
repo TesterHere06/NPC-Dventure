@@ -81,7 +81,7 @@ function PlayerStateHook(){
 					with (hookedEntity)
 					{
 						x = other.x + other.hookX;
-						y = other.y + other.hookY;
+						y = other.y+sprite_get_height(object_get_sprite(other))*4 + other.hookY;
 					}
 				}break;
 				

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oSlime",
+  "name": "oBat",
   "spriteId": {
-    "name": "sSlime",
-    "path": "sprites/sSlime/sSlime.yy",
+    "name": "sBat",
+    "path": "sprites/sBat/sBat.yy",
   },
   "solid": false,
   "visible": true,
