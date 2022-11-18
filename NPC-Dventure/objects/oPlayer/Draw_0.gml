@@ -1,6 +1,9 @@
 /// @description Draw Z position
 draw_sprite(sShadow,0,floor(x),floor(y));
 
+//Hookshot (before player)
+if (state == PlayerStateHook) && (image_index != 3) DrawHookChain();
+
 if (invulnerable != 0) && ((invulnerable mod 8 < 2) == 0) && (flash == 0)
 {
 	// Skip draw
