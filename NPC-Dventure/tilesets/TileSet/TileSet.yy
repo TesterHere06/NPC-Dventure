@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "TileSet",
   "spriteId": {
-    "name": "Tile",
-    "path": "sprites/Tile/Tile.yy",
+    "name": "sTile",
+    "path": "sprites/sTile/sTile.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,
@@ -39,7 +39,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy",
+    "name": "Tilesets",
+    "path": "folders/Tilesets.yy",
   },
 }
