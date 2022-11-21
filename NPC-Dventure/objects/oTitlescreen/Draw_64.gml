@@ -6,6 +6,5 @@ draw_sprite(sTitle,1,0,0);
 draw_set_alpha(1.0);
 } else {
 	global.targetX = -1
-	global.targetX = -1
 	room_goto(2);
 }
