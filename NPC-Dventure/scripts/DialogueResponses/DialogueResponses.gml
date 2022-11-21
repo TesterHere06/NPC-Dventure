@@ -16,7 +16,10 @@ switch(argument0){
 	} break;
 	case 5: NewTextBox(":(", 2); break;
 	default: break;
-	case 6: room_goto(global.targetRoom);
+	case 6: {
+		oPlayer.Destination = global.targetRoom;
+		oPlayer.alarm[1] = .1*room_speed;
+	}
 }
 
 
