@@ -35,6 +35,7 @@
     {"id":{"name":"shWhiteFlash","path":"shaders/shWhiteFlash/shWhiteFlash.yy",},"order":0,},
     {"id":{"name":"PlayerCollision","path":"scripts/PlayerCollision/PlayerCollision.yy",},"order":1,},
     {"id":{"name":"Bat","path":"scripts/Bat/Bat.yy",},"order":4,},
+    {"id":{"name":"oShopItem","path":"objects/oShopItem/oShopItem.yy",},"order":10,},
     {"id":{"name":"oFragRock","path":"objects/oFragRock/oFragRock.yy",},"order":7,},
     {"id":{"name":"EnemyTileCollision","path":"scripts/EnemyTileCollision/EnemyTileCollision.yy",},"order":12,},
     {"id":{"name":"sFrag_Player","path":"sprites/sFrag_Player/sFrag_Player.yy",},"order":6,},
@@ -120,6 +121,7 @@
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":0,},
     {"id":{"name":"sPlayerRunCarrying","path":"sprites/sPlayerRunCarrying/sPlayerRunCarrying.yy",},"order":9,},
     {"id":{"name":"sBomb","path":"sprites/sBomb/sBomb.yy",},"order":5,},
+    {"id":{"name":"PurchaseItem","path":"scripts/PurchaseItem/PurchaseItem.yy",},"order":16,},
     {"id":{"name":"oBombDrop","path":"objects/oBombDrop/oBombDrop.yy",},"order":4,},
     {"id":{"name":"oRock","path":"objects/oRock/oRock.yy",},"order":8,},
     {"id":{"name":"sTilesetCave","path":"sprites/sTilesetCave/sTilesetCave.yy",},"order":3,},
@@ -204,6 +206,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.1.51",
+    "IDEVersion": "2022.9.0.49",
   },
 }

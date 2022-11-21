@@ -15,11 +15,15 @@ switch(argument0){
 		global.questStatus[? "TheHatQuest"] = 1;
 	} break;
 	case 5: NewTextBox(":(", 2); break;
-	default: break;
+	
 	case 6: {
 		oPlayer.Destination = global.targetRoom;
 		oPlayer.alarm[1] = .1*room_speed;
-	}
+	} break;
+
+	case 7: PurchaseItem(activate.item, activate.itemAmount, activate.itemCost); break;
+	
+	default: break;
 }
 
 
