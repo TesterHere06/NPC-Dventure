@@ -1,7 +1,7 @@
 /// @desc Pause the Game
 
 
-if(keyboard_check_pressed(vk_escape)) && (!instance_exists(oTransition)){
+if(keyboard_check_pressed(vk_escape)) && (!instance_exists(oTransition)) && (oUI.visible == true){
 	global.gamePaused = !global.gamePaused;
 	if (global.gamePaused)
 	{
