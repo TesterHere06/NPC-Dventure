@@ -43,6 +43,7 @@
     {"id":{"name":"pEntity","path":"objects/pEntity/pEntity.yy",},"order":4,},
     {"id":{"name":"oPlant","path":"objects/oPlant/oPlant.yy",},"order":1,},
     {"id":{"name":"PlayerAttackFuncs","path":"scripts/PlayerAttackFuncs/PlayerAttackFuncs.yy",},"order":3,},
+    {"id":{"name":"oDoor","path":"objects/oDoor/oDoor.yy",},"order":10,},
     {"id":{"name":"oFragPlayer","path":"objects/oFragPlayer/oFragPlayer.yy",},"order":1,},
     {"id":{"name":"oBomb","path":"objects/oBomb/oBomb.yy",},"order":6,},
     {"id":{"name":"DropItems","path":"scripts/DropItems/DropItems.yy",},"order":9,},
@@ -191,6 +192,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.0.49",
+    "IDEVersion": "2022.9.1.51",
   },
 }

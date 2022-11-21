@@ -16,6 +16,7 @@ switch(argument0){
 	} break;
 	case 5: NewTextBox(":(", 2); break;
 	default: break;
+	case 6: room_goto(global.targetRoom);
 }
 
 

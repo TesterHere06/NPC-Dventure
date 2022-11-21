@@ -80,6 +80,9 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57B3E29E","properties":[],"isDnd":false,"objectId":{"name":"oRock","path":"objects/oRock/oRock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":212.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_137DAB91","properties":[],"isDnd":false,"objectId":{"name":"oRock","path":"objects/oRock/oRock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":460.0,"y":68.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1E202CA2","properties":[],"isDnd":false,"objectId":{"name":"oBoulder","path":"objects/oBoulder/oBoulder.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":112.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_392719DC","properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"entityActivateArgs","path":"objects/pEntity/pEntity.yy",},"objectId":{"name":"pEntity","path":"objects/pEntity/pEntity.yy",},"value":"[2]",},
+          ],"isDnd":false,"objectId":{"name":"oDoor","path":"objects/oDoor/oDoor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":0.625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":264.0,"y":66.0,},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":4,"gridY":4,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Col","tilesetId":{"name":"TileSet","path":"tilesets/TileSet/TileSet.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":40,"SerialiseHeight":23,"TileCompressedData":[
 1,-2147483648,-7,1,-32,0,2,-2147483648,1,-21,-2147483648,-2,1,1,0,-13,-2147483648,3,0,-2147483648,1,-17,-2147483648,-2,1,-3,-2147483648,5,0,-2147483648,-2147483648,1,1,-10,-2147483648,5,0,-2147483648,1,-2147483648,
@@ -146,6 +149,7 @@
     {"name":"inst_57B3E29E","path":"rooms/rVillage/rVillage.yy",},
     {"name":"inst_137DAB91","path":"rooms/rVillage/rVillage.yy",},
     {"name":"inst_1E202CA2","path":"rooms/rVillage/rVillage.yy",},
+    {"name":"inst_392719DC","path":"rooms/rVillage/rVillage.yy",},
   ],
   "inheritCreationOrder": true,
   "sequenceId": null,
