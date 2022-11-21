@@ -80,6 +80,6 @@ function ActivateHatCat()
 
 function DoorEnter(Roomnum)
 {
-	global.targetRoom = Roomnum
+	global.targetRoom = Roomnum;
 	NewTextBox("The Door is unlocked, do you want to go inside?",2,["6:Yeah", "0:Nah"]);
 }
