@@ -73,6 +73,7 @@
     {"id":{"name":"sSlimeAttack","path":"sprites/sSlimeAttack/sSlimeAttack.yy",},"order":2,},
     {"id":{"name":"oHat","path":"objects/oHat/oHat.yy",},"order":11,},
     {"id":{"name":"sItemUIBox","path":"sprites/sItemUIBox/sItemUIBox.yy",},"order":3,},
+    {"id":{"name":"rHome","path":"rooms/rHome/rHome.yy",},"order":6,},
     {"id":{"name":"tTilesetCave","path":"tilesets/tTilesetCave/tTilesetCave.yy",},"order":3,},
     {"id":{"name":"sPlayerHook","path":"sprites/sPlayerHook/sPlayerHook.yy",},"order":11,},
     {"id":{"name":"sHookBlade","path":"sprites/sHookBlade/sHookBlade.yy",},"order":9,},
@@ -165,6 +166,7 @@
     {"roomId":{"name":"rForest","path":"rooms/rForest/rForest.yy",},},
     {"roomId":{"name":"rShop","path":"rooms/rShop/rShop.yy",},},
     {"roomId":{"name":"rTitle","path":"rooms/rTitle/rTitle.yy",},},
+    {"roomId":{"name":"rHome","path":"rooms/rHome/rHome.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
@@ -206,6 +208,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.0.49",
+    "IDEVersion": "2022.9.1.51",
   },
 }
