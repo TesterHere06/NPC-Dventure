@@ -116,6 +116,7 @@
     {"id":{"name":"sPlant","path":"sprites/sPlant/sPlant.yy",},"order":0,},
     {"id":{"name":"pEnemy","path":"objects/pEnemy/pEnemy.yy",},"order":7,},
     {"id":{"name":"oBat","path":"objects/oBat/oBat.yy",},"order":1,},
+    {"id":{"name":"Shop_Music","path":"sounds/Shop_Music/Shop_Music.yy",},"order":1,},
     {"id":{"name":"oBoulder","path":"objects/oBoulder/oBoulder.yy",},"order":9,},
     {"id":{"name":"EnemyWait","path":"scripts/EnemyWait/EnemyWait.yy",},"order":14,},
     {"id":{"name":"oFragPlant","path":"objects/oFragPlant/oFragPlant.yy",},"order":0,},

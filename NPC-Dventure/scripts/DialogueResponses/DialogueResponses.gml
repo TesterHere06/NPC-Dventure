@@ -17,6 +17,7 @@ switch(argument0){
 	case 5: NewTextBox(":(", 2); break;
 	
 	case 6: {
+		audio_stop_all()
 		oPlayer.Destination = global.targetRoom;
 		oPlayer.alarm[1] = .1*room_speed;
 	} break;
