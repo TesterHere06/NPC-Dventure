@@ -104,6 +104,7 @@
     {"id":{"name":"sRock","path":"sprites/sRock/sRock.yy",},"order":9,},
     {"id":{"name":"DoNothing","path":"scripts/DoNothing/DoNothing.yy",},"order":11,},
     {"id":{"name":"rVillage","path":"rooms/rVillage/rVillage.yy",},"order":1,},
+    {"id":{"name":"zackstest","path":"sprites/zackstest/zackstest.yy",},"order":6,},
     {"id":{"name":"ScriptExecuteArray","path":"scripts/ScriptExecuteArray/ScriptExecuteArray.yy",},"order":1,},
     {"id":{"name":"NewTextBox","path":"scripts/NewTextBox/NewTextBox.yy",},"order":0,},
     {"id":{"name":"oPot","path":"objects/oPot/oPot.yy",},"order":3,},
