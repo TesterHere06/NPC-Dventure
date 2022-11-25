@@ -87,7 +87,7 @@
     {"id":{"name":"PlayerStateTransition","path":"scripts/PlayerStateTransition/PlayerStateTransition.yy",},"order":8,},
     {"id":{"name":"sPlayerAttackSlash","path":"sprites/sPlayerAttackSlash/sPlayerAttackSlash.yy",},"order":4,},
     {"id":{"name":"sShadow","path":"sprites/sShadow/sShadow.yy",},"order":1,},
-    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
+    {"id":{"name":"oldplayer","path":"sprites/oldplayer/oldplayer.yy",},"order":0,},
     {"id":{"name":"sBoulder","path":"sprites/sBoulder/sBoulder.yy",},"order":10,},
     {"id":{"name":"sPlantB","path":"sprites/sPlantB/sPlantB.yy",},"order":1,},
     {"id":{"name":"TileSetVillage_Big","path":"tilesets/TileSetVillage_Big/TileSetVillage_Big.yy",},"order":2,},
@@ -111,7 +111,7 @@
     {"id":{"name":"zackstest","path":"sprites/zackstest/zackstest.yy",},"order":6,},
     {"id":{"name":"ScriptExecuteArray","path":"scripts/ScriptExecuteArray/ScriptExecuteArray.yy",},"order":1,},
     {"id":{"name":"NewTextBox","path":"scripts/NewTextBox/NewTextBox.yy",},"order":0,},
-    {"id":{"name":"IdleHero_strip4","path":"sprites/IdleHero_strip4/IdleHero_strip4.yy",},"order":12,},
+    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":12,},
     {"id":{"name":"oPot","path":"objects/oPot/oPot.yy",},"order":3,},
     {"id":{"name":"sPlant","path":"sprites/sPlant/sPlant.yy",},"order":0,},
     {"id":{"name":"pEnemy","path":"objects/pEnemy/pEnemy.yy",},"order":7,},
@@ -217,6 +217,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.0.49",
+    "IDEVersion": "2022.9.1.51",
   },
 }

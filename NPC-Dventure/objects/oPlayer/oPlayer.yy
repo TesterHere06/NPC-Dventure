@@ -10,8 +10,8 @@
   "visible": true,
   "managed": true,
   "spriteMaskId": {
-    "name": "sPlayer",
-    "path": "sprites/sPlayer/sPlayer.yy",
+    "name": "oldplayer",
+    "path": "sprites/oldplayer/oldplayer.yy",
   },
   "persistent": false,
   "parentObjectId": null,
