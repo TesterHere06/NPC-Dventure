@@ -140,6 +140,7 @@
     {"id":{"name":"sFragRock","path":"sprites/sFragRock/sFragRock.yy",},"order":12,},
     {"id":{"name":"rInit","path":"rooms/rInit/rInit.yy",},"order":2,},
     {"id":{"name":"oShopkeeper","path":"objects/oShopkeeper/oShopkeeper.yy",},"order":12,},
+    {"id":{"name":"rCastle","path":"rooms/rCastle/rCastle.yy",},"order":7,},
     {"id":{"name":"oArrow","path":"objects/oArrow/oArrow.yy",},"order":7,},
     {"id":{"name":"oTextQueued","path":"objects/oTextQueued/oTextQueued.yy",},"order":2,},
     {"id":{"name":"sPot","path":"sprites/sPot/sPot.yy",},"order":2,},
@@ -167,6 +168,7 @@
     {"roomId":{"name":"rShop","path":"rooms/rShop/rShop.yy",},},
     {"roomId":{"name":"rTitle","path":"rooms/rTitle/rTitle.yy",},},
     {"roomId":{"name":"rHome","path":"rooms/rHome/rHome.yy",},},
+    {"roomId":{"name":"rCastle","path":"rooms/rCastle/rCastle.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
