@@ -41,10 +41,10 @@
 -2,0,-2,1,-4,0,-2,1,-2,0,1,1,-3,0,-2,1,-7,0,1,1,-14,0,-2,1,-4,0,-3,1,3,0,1,1,-5,0,6,1,0,0,1,0,
 0,-3,1,-8,0,-4,1,-16,0,-3,1,9,0,1,1,0,1,0,0,1,1,-6,0,-2,1,-4,0,-2,1,-2,0,-4,1,-3,0,4,1,0,1,1,
 -12,0,1,1,-8,0,1,1,-4,0,-3,1,4,0,1,1,0,-6,1,8,0,1,1,0,0,1,1,0,-6,1,-9,0,-2,1,-15,0,-2,1,3,0,
-1,1,-5,0,-4,1,-6,0,1,1,-4,0,-2,1,-5,0,-3,1,1,0,-3,1,-3,0,-7,1,1,0,-4,1,-6,0,-2,1,-8,0,-9,1,-4,0,
--4,1,-6,0,-4,1,-4,0,-2,1,-5,0,-11,1,-5,0,-4,1,10,0,1,1,0,0,1,0,0,1,1,-4,0,-15,1,-8,0,-5,1,-3,0,1,
-1,-3,0,-2,1,-8,0,-4,1,-27,0,-2,1,-39,0,-3,1,-39,0,-3,1,-39,0,-7,1,-36,0,-2,1,-38,0,-2,1,-10,0,1,1,-27,0,-12,
-1,-3,0,1,1,-11,0,1,1,],},"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+1,1,-5,0,-4,1,-6,0,1,1,-4,0,-2,1,-5,0,-3,1,1,0,-3,1,-3,0,-7,1,1,0,-4,1,-6,0,-2,1,-8,0,-12,1,1,0,
+-4,1,-6,0,-4,1,-4,0,-2,1,-5,0,-14,1,-2,0,-4,1,10,0,1,1,0,0,1,0,0,1,1,-4,0,-15,1,1,0,-4,1,-3,0,-5,
+1,-3,0,1,1,-3,0,-2,1,-8,0,-4,1,-8,0,-3,1,-16,0,-2,1,-39,0,-3,1,-39,0,-3,1,-39,0,-7,1,-36,0,-2,1,-38,0,-2,
+1,-10,0,1,1,-27,0,-12,1,-3,0,1,1,-11,0,1,1,],},"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_139C4887_2","properties":[],"isDnd":false,"objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"inheritCode":true,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":{"name":"inst_139C4887","path":"rooms/rParent/rParent.yy",},"frozen":false,"ignore":false,"inheritItemSettings":false,"x":8.0,"y":112.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_178D864","properties":[
