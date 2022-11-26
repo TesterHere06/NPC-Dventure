@@ -1,6 +1,8 @@
 ///@desc Initialise & Globals
 randomise();
 
+global.AttackSprite = HeroAttack
+global.IdleSprite = HeroIdle
 global.gamePaused = false;
 global.textSpeed = .75;
 global.targetRoom = -1;

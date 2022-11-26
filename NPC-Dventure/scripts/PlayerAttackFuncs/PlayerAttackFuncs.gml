@@ -27,10 +27,10 @@ function HurtPlayer(_direction, _force, _damage)
 
 function AttackSlash(){
 	//Attack just started
-if(sprite_index != sPlayerAttackSlash)
+if(sprite_index != global.AttackSprite)
 {
 	//Set up animation
-	sprite_index = sPlayerAttackSlash;
+	sprite_index = global.AttackSprite;
 	localFrame = 0;
 	image_index = 0;
 	
@@ -101,7 +101,7 @@ if (hits > 0)
 }
 
 ds_list_destroy(hitByAttackNow);
-mask_index = sPlayer;
+mask_index = HeroIdle;
 }
 
 function HurtEnemy(_enemy, _damage, _source, _knockback)

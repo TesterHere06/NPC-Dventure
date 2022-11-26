@@ -31,7 +31,7 @@ flashShader = shRedFlash;
 animationEndScript = -1;
 spriteRoll = sPlayerRoll;
 spriteRun = sPlayerRun;
-spriteIdle = sPlayer;
+spriteIdle = global.IdleSprite;
 localFrame = 0;
 
 hook = 0;

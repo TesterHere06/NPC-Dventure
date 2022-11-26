@@ -113,7 +113,6 @@
     {"id":{"name":"zackstest","path":"sprites/zackstest/zackstest.yy",},"order":6,},
     {"id":{"name":"ScriptExecuteArray","path":"scripts/ScriptExecuteArray/ScriptExecuteArray.yy",},"order":1,},
     {"id":{"name":"NewTextBox","path":"scripts/NewTextBox/NewTextBox.yy",},"order":0,},
-    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":12,},
     {"id":{"name":"oPot","path":"objects/oPot/oPot.yy",},"order":3,},
     {"id":{"name":"sPlant","path":"sprites/sPlant/sPlant.yy",},"order":0,},
     {"id":{"name":"pEnemy","path":"objects/pEnemy/pEnemy.yy",},"order":7,},
