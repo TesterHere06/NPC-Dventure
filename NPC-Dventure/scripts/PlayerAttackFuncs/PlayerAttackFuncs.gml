@@ -101,7 +101,7 @@ if (hits > 0)
 }
 
 ds_list_destroy(hitByAttackNow);
-mask_index = HeroIdle;
+mask_index = global.IdleSprite;
 }
 
 function HurtEnemy(_enemy, _damage, _source, _knockback)
