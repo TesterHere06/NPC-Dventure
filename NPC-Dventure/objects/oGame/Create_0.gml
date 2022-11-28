@@ -3,7 +3,7 @@ randomise();
 
 global.AttackSprite = sHeroAttack
 global.IdleSprite = sHeroIdle
-global.RunSprite = sPlayerRun
+global.RunSprite = sHeroRun
 global.RollSprite = sHeroRoll
 global.CarrySprite = sHeroCarry
 global.CarrySpriteRun = sHeroCarryRun

@@ -67,6 +67,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D2194CB","properties":[],"isDnd":false,"objectId":{"name":"Walls","path":"objects/Walls/Walls.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.125,"scaleY":0.375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":304.0,"y":344.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_13A38AEA","properties":[],"isDnd":false,"objectId":{"name":"Walls","path":"objects/Walls/Walls.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.5,"scaleY":0.125,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":296.0,"y":350.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3A9A5B6A","properties":[],"isDnd":false,"objectId":{"name":"oButton2","path":"objects/oButton2/oButton2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":3.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":632.0,"y":296.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_FB73935","properties":[],"isDnd":false,"objectId":{"name":"Walls","path":"objects/Walls/Walls.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.05,"scaleY":4.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2.0,"y":144.0,},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":8,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"darkGreenPath","tilesetId":{"name":"TileSetVillage","path":"tilesets/TileSetVillage/TileSetVillage.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":40,"SerialiseHeight":23,"TileCompressedData":[
 16,212,213,214,0,0,-2147483648,-2147483648,290,329,326,326,293,0,0,-2147483648,-2147483648,-8,0,-2,-2147483648,-2,0,-3,-2147483648,-2,0,3,-2147483648,0,0,-4,-2147483648,3,247,248,249,-3,0,6,
@@ -115,6 +116,7 @@
     {"name":"inst_7D2194CB","path":"rooms/rHome/rHome.yy",},
     {"name":"inst_13A38AEA","path":"rooms/rHome/rHome.yy",},
     {"name":"inst_3A9A5B6A","path":"rooms/rHome/rHome.yy",},
+    {"name":"inst_FB73935","path":"rooms/rHome/rHome.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
