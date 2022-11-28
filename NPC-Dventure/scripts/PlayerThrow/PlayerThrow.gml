@@ -13,8 +13,8 @@ function PlayerThrow(){
 	xstart = x;
 	ystart = y;
 	}
-	PlayerActOutAnimation(sPlayerLift);
+	PlayerActOutAnimation(global.LiftSprite);
 	global.iLifted = noone
-	spriteIdle = sPlayer;
-	spriteRun = sPlayerRun;
+	spriteIdle = global.IdleSprite;
+	spriteRun = global.RunSprite;
 }

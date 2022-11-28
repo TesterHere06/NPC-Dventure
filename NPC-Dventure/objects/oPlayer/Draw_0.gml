@@ -16,13 +16,13 @@ else
 		uFlash = shader_get_uniform(flashShader, "flash");
 		shader_set_uniform_f(uFlash, flash);
 	}
-	
-	draw_sprite(
+	if (sprite_index != -1) draw_sprite(
 		sprite_index,
 		image_index,
 		floor(x),
 		floor(y-z)
-)
+	
+	)
 
 if (shader_current() != -1) shader_reset();
 }

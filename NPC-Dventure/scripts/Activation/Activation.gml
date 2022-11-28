@@ -2,10 +2,10 @@ function ActivateLiftable(id)
 {
 	if (global.iLifted == noone)
 	{
-		PlayerActOutAnimation(sPlayerLift, -1);
+		PlayerActOutAnimation(global.LiftSprite, -1);
 		
-		spriteIdle = sPlayerCarrying;
-		spriteRun = sPlayerRunCarrying;
+		spriteIdle = global.CarrySprite;
+		spriteRun = global.CarrySpriteRun;
 		
 		global.iLifted = id;
 		
