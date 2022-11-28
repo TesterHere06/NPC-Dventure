@@ -29,8 +29,8 @@ invulnerable = 0;
 flash = 0;
 flashShader = shRedFlash;
 animationEndScript = -1;
-spriteRoll = sPlayerRoll;
-spriteRun = sPlayerRun;
+spriteRoll = global.RollSprite;
+spriteRun = global.RunSprite;
 spriteIdle = global.IdleSprite;
 localFrame = 0;
 
@@ -48,7 +48,7 @@ if (global.targetX != -1)
 
 if (global.iLifted != noone)
 {
-	spriteIdle = sPlayerCarrying;
-	spriteRun = sPlayerRunCarrying;
+	spriteIdle = global.CarrySprite;
+	spriteRun = global.CarrySpriteRun;
 	sprite_index = spriteIdle;
 }

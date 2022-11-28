@@ -1,8 +1,12 @@
 ///@desc Initialise & Globals
 randomise();
 
-global.AttackSprite = HeroAttack
-global.IdleSprite = HeroIdle
+global.AttackSprite = sHeroAttack
+global.IdleSprite = sHeroIdle
+global.RunSprite = sPlayerRun
+global.RollSprite = sHeroRoll
+global.CarrySprite = sHeroCarry
+global.CarrySpriteRun = sHeroCarryRun
 global.gamePaused = false;
 global.textSpeed = .75;
 global.targetRoom = -1;
