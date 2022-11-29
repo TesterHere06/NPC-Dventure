@@ -29,6 +29,7 @@
     {"id":{"name":"DialogueResponses","path":"scripts/DialogueResponses/DialogueResponses.yy",},"order":1,},
     {"id":{"name":"Activation","path":"scripts/Activation/Activation.yy",},"order":10,},
     {"id":{"name":"sExplode","path":"sprites/sExplode/sExplode.yy",},"order":7,},
+    {"id":{"name":"rPlains10","path":"rooms/rPlains10/rPlains10.yy",},"order":8,},
     {"id":{"name":"sVillageTileSet","path":"sprites/sVillageTileSet/sVillageTileSet.yy",},"order":0,},
     {"id":{"name":"PlayerDropItem","path":"scripts/PlayerDropItem/PlayerDropItem.yy",},"order":4,},
     {"id":{"name":"rTitle","path":"rooms/rTitle/rTitle.yy",},"order":5,},
@@ -156,6 +157,7 @@
     {"id":{"name":"sHeroRoll","path":"sprites/sHeroRoll/sHeroRoll.yy",},"order":24,},
     {"id":{"name":"sSlimeDie","path":"sprites/sSlimeDie/sSlimeDie.yy",},"order":3,},
     {"id":{"name":"sFragRock","path":"sprites/sFragRock/sFragRock.yy",},"order":12,},
+    {"id":{"name":"Forest_Theme","path":"sounds/Forest_Theme/Forest_Theme.yy",},"order":2,},
     {"id":{"name":"rInit","path":"rooms/rInit/rInit.yy",},"order":2,},
     {"id":{"name":"oShopkeeper","path":"objects/oShopkeeper/oShopkeeper.yy",},"order":12,},
     {"id":{"name":"rCastle","path":"rooms/rCastle/rCastle.yy",},"order":7,},
@@ -187,6 +189,7 @@
     {"roomId":{"name":"rTitle","path":"rooms/rTitle/rTitle.yy",},},
     {"roomId":{"name":"rHome","path":"rooms/rHome/rHome.yy",},},
     {"roomId":{"name":"rCastle","path":"rooms/rCastle/rCastle.yy",},},
+    {"roomId":{"name":"rPlains10","path":"rooms/rPlains10/rPlains10.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":11,},

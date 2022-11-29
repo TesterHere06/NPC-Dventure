@@ -1,0 +1,70 @@
+{
+  "resourceType": "GMRoom",
+  "resourceVersion": "1.0",
+  "name": "rPlains10",
+  "isDnd": false,
+  "volume": 1.0,
+  "parentRoom": {
+    "name": "rParent",
+    "path": "rooms/rParent/rParent.yy",
+  },
+  "views": [
+    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":320,"hview":180,"xport":0,"yport":0,"wport":640,"hport":360,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+    {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
+  ],
+  "layers": [
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Col","tilesetId":{"name":"TileSet","path":"tilesets/TileSet/TileSet.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":40,"SerialiseHeight":23,"TileCompressedData":[
+-920,0,],},"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"top","tilesetId":{"name":"tTilesetCave","path":"tilesets/tTilesetCave/tTilesetCave.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":40,"SerialiseHeight":23,"TileCompressedData":[
+-20,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,
+-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,
+-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,
+-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,
+-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-31,0,1,16,-7,47,1,24,-11,0,],},"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":4,"gridY":4,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"darkGreenPath","tilesetId":{"name":"TileSetVillage","path":"tilesets/TileSetVillage/TileSetVillage.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":40,"SerialiseHeight":23,"TileCompressedData":[
+4,0,10,11,12,-37,0,3,45,46,47,-37,0,3,45,46,47,-37,0,3,45,46,47,-37,0,3,45,46,47,-37,0,4,45,46,46,187,-36,0,5,45,
+46,46,223,187,-35,0,6,45,46,46,221,223,187,-34,0,2,255,189,-3,221,2,223,187,-34,0,2,255,189,-3,221,2,223,187,-34,0,2,255,189,-3,221,
+2,223,187,-34,0,3,255,189,221,-12,11,1,12,-25,0,2,255,189,-12,46,1,47,-26,0,1,255,-12,81,1,82,-27,0,1,115,-11,116,1,117,-27,0,
+1,150,-11,151,1,152,-300,0,],},"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"lightGreenFloor","tilesetId":{"name":"TileSetVillage","path":"tilesets/TileSetVillage/TileSetVillage.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":40,"SerialiseHeight":23,"TileCompressedData":[
+-244,326,1,12,-36,326,1,80,-3,326,1,12,-35,326,2,115,80,-3,326,1,12,-34,326,3,150,115,80,-3,326,1,12,-34,326,3,150,115,80,-3,326,1,
+12,-34,326,3,150,115,80,-38,326,3,150,115,80,-38,326,2,150,115,-39,326,1,150,-353,326,],},"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+  ],
+  "inheritLayers": false,
+  "creationCodeFile": "",
+  "inheritCode": false,
+  "instanceCreationOrder": [],
+  "inheritCreationOrder": false,
+  "sequenceId": null,
+  "roomSettings": {
+    "inheritRoomSettings": false,
+    "Width": 640,
+    "Height": 360,
+    "persistent": false,
+  },
+  "viewSettings": {
+    "inheritViewSettings": true,
+    "enableViews": true,
+    "clearViewBackground": false,
+    "clearDisplayBuffer": true,
+  },
+  "physicsSettings": {
+    "inheritPhysicsSettings": false,
+    "PhysicsWorld": false,
+    "PhysicsWorldGravityX": 0.0,
+    "PhysicsWorldGravityY": 10.0,
+    "PhysicsWorldPixToMetres": 0.1,
+  },
+  "parent": {
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
+  },
+}
