@@ -58,6 +58,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5569AACE","properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"entityActivateArgs","path":"objects/pEntity/pEntity.yy",},"objectId":{"name":"pEntity","path":"objects/pEntity/pEntity.yy",},"value":"[2]",},
           ],"isDnd":false,"objectId":{"name":"oDoor","path":"objects/oDoor/oDoor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":584.0,"y":216.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_480CF28B","properties":[],"isDnd":false,"objectId":{"name":"Walls","path":"objects/Walls/Walls.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":568.0,"y":200.0,},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":false,"inheritSubLayers":true,"gridX":4,"gridY":4,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"darkGreenPath","tilesetId":{"name":"TileSetVillage","path":"tilesets/TileSetVillage/TileSetVillage.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":40,"SerialiseHeight":23,"TileCompressedData":[
 4,0,10,11,12,-37,0,3,45,46,47,-37,0,3,45,46,47,-37,0,3,45,46,47,-37,0,3,45,46,47,-37,0,4,45,46,46,187,-36,0,5,45,
@@ -85,6 +86,7 @@
     {"name":"inst_534C6F89","path":"rooms/rPlains10/rPlains10.yy",},
     {"name":"inst_24796438","path":"rooms/rPlains10/rPlains10.yy",},
     {"name":"inst_5569AACE","path":"rooms/rPlains10/rPlains10.yy",},
+    {"name":"inst_480CF28B","path":"rooms/rPlains10/rPlains10.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
