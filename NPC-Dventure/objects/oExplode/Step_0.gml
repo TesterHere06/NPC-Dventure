@@ -20,7 +20,7 @@ if (!global.gamePaused)
 					}
 					else
 					{
-						if (entityHitScript != -1) script_execute(entityHitScript);
+						script_execute(entityHitScript);
 					}
 				}
 				ds_list_add(collisionHistory, _entity);
