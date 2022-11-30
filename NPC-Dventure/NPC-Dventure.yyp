@@ -167,11 +167,9 @@
     {"id":{"name":"rParent","path":"rooms/rParent/rParent.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"Linux","path":"options/linux/options_linux.yy",},
-    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
-    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
@@ -184,12 +182,12 @@
     {"roomId":{"name":"rParent","path":"rooms/rParent/rParent.yy",},},
     {"roomId":{"name":"rVillage","path":"rooms/rVillage/rVillage.yy",},},
     {"roomId":{"name":"rPlains","path":"rooms/rPlains/rPlains.yy",},},
-    {"roomId":{"name":"rForest","path":"rooms/rForest/rForest.yy",},},
+    {"roomId":{"name":"rPlains10","path":"rooms/rPlains10/rPlains10.yy",},},
     {"roomId":{"name":"rShop","path":"rooms/rShop/rShop.yy",},},
     {"roomId":{"name":"rTitle","path":"rooms/rTitle/rTitle.yy",},},
     {"roomId":{"name":"rHome","path":"rooms/rHome/rHome.yy",},},
     {"roomId":{"name":"rCastle","path":"rooms/rCastle/rCastle.yy",},},
-    {"roomId":{"name":"rPlains10","path":"rooms/rPlains10/rPlains10.yy",},},
+    {"roomId":{"name":"rForest","path":"rooms/rForest/rForest.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":11,},
@@ -232,6 +230,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.1.51",
+    "IDEVersion": "2022.11.0.54",
   },
 }
