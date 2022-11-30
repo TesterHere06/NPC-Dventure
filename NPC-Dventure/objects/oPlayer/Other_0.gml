@@ -1,19 +1,20 @@
-if (CARDINAL_DIR!=round(direction/45)/2) {
-	if (x+camera_get_view_x(view_camera[0])>RESOLUTION_W) direction = 0
-	if (y+camera_get_view_y(view_camera[0])>RESOLUTION_H) direction = 90
-	if (0>x) direction = 180
-	if (0>y) direction = 270
-}
-global.targetDirection = direction;
-if (y-camera_get_view_y(view_camera[0])>RESOLUTION_H or y < 0) {
 global.targetX = x
-} else {
-global.targetX = abs(x - RESOLUTION_W*2)-(x < 0)*10
-}
-if (x-camera_get_view_x(view_camera[0])>RESOLUTION_W or x < 0) {
 global.targetY = y
-} else {
-global.targetY = abs(y - RESOLUTION_H*(2.05-0.15*(y<0)))
+if (x>room_width) {
+	global.targetX = TILE_SIZE
+	direction = 0
+}
+else if (y>room_height) {
+	global.targetY = TILE_SIZE
+	direction = 90
+}
+else if (0>x) {
+	global.targetX = room_width - TILE_SIZE
+	direction = 180
+}
+else if (0>y) {
+	global.targetY = room_height - TILE_SIZE
+	direction = 270
 }
 Destination = room + (CARDINAL_DIR + 1)
 for (var roomtable = [[8,2], [5,7], [6,2],[9,2],[10,2],[11,2]]; array_length(roomtable) > 0;) {

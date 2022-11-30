@@ -124,6 +124,7 @@
     {"id":{"name":"pEnemy","path":"objects/pEnemy/pEnemy.yy",},"order":7,},
     {"id":{"name":"oBat","path":"objects/oBat/oBat.yy",},"order":0,},
     {"id":{"name":"Shop_Music","path":"sounds/Shop_Music/Shop_Music.yy",},"order":1,},
+    {"id":{"name":"hookpoint","path":"objects/hookpoint/hookpoint.yy",},"order":8,},
     {"id":{"name":"oBoulder","path":"objects/oBoulder/oBoulder.yy",},"order":9,},
     {"id":{"name":"sHeroCarryRun","path":"sprites/sHeroCarryRun/sHeroCarryRun.yy",},"order":17,},
     {"id":{"name":"sHeroHook","path":"sprites/sHeroHook/sHeroHook.yy",},"order":16,},
