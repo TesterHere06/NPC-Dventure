@@ -35,8 +35,8 @@ function ActivateHatCat()
 				global.iLifted = noone;
 				with(oPlayer)
 				{
-					spriteIdle = sPlayer;
-					spriteRun = sPlayerRun;
+					spriteIdle = sHeroIdle;
+					spriteRun = sHeroRun;
 				}
 			}
 			else
@@ -60,8 +60,8 @@ function ActivateHatCat()
 				global.iLifted = noone;
 				with(oPlayer)
 				{
-					spriteIdle = sPlayer;
-					spriteRun = sPlayerRun;
+					spriteIdle = sHeroIdle;
+					spriteRun = sHeroRun;
 				}
 			}
 			else
